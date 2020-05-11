@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <path id="fb-a" d="M10.584 0H0v21.168h21.168V0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".7">
+        <mask id="fb-b" fill="#fff">
+            <use xlink:href="#fb-a"/>
+        </mask>
+        <path fill="#FFF" d="M20 0H1.168C.524 0-.001.522-.001 1.169v18.83c0 .647.523 1.17 1.17 1.17h10.137V12.97H8.548V9.776h2.758V7.42c0-2.734 1.671-4.223 4.109-4.223 1.169 0 2.172.087 2.465.126v2.858h-1.69c-1.328 0-1.585.63-1.585 1.555v2.04h3.164l-.413 3.194h-2.75v8.198h5.393c.646 0 1.169-.522 1.169-1.169V1.17C21.168.522 20.645 0 19.999 0" mask="url(#fb-b)"/>
+    </g>
+</svg>
